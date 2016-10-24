@@ -28,11 +28,10 @@ project.xcworkspace
 
 # Android/IJ
 #
-*.iml
+.iml
 .idea
 .gradle
 local.properties
-/android/
 
 # node.js
 #
@@ -53,3 +52,13 @@ android/keystores/debug.keystore
 /Examples/**/android/app/gradlew
 /Examples/**/android/app/gradlew.bat
 /ReactAndroid/build/
+
+*.gradle
+
+*.gradle
+
+android/app/build.gradle
+
+android/build.gradle
+
+android/settings.gradle
